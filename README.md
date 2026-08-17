@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ---
-
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Shijitha Jenifer J GitHub Banner">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Intelligence+with+Code;Exploring+AI,+Cloud+%26+Data;Always+Learning.+Always+Building."/>
 </p>
@@ -18,7 +20,7 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 
 - 🎓 **Currently studying:** B.Tech Artificial Intelligence & Data Science
 - 🏫 **VSB College of Engineering and Technical Campus, Coimbatore**
-- 📊 **CGPA:** 8.4
+
 
 ---
 
