@@ -66,18 +66,16 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 ## GitHub Analytics
 ---
 
-
-<p align="center">
-
 ### 📊 My GitHub Activity
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=shijithajenifer&theme=tokyonight&hide_border=true"
+    alt="Shijithajenifer's GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <a href="https://github.com/shijithajenifer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shijithajenifer" />
-  </a>
-</p>
+
 ### Contribution Activity
 
 <p align="center">
