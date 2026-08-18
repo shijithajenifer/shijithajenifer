@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./github-banner.png" width="100%" alt="Shijitha Jenifer J GitHub Banner">
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Intelligence+with+Code;Exploring+AI,+Cloud+%26+Data;Always+Learning.+Always+Building."/>
 </p>
@@ -18,7 +19,6 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 
 - 🎓 **Currently studying:** B.Tech Artificial Intelligence & Data Science
 - 🏫 **VSB College of Engineering and Technical Campus, Coimbatore**
-
 
 ---
 
@@ -64,16 +64,20 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 ---
 
 ## GitHub Analytics
+---
+
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shijithajenifer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shijithajenifer&layout=compact&theme=tokyonight&hide_border=true"/>
+
+### 📊 My GitHub Activity
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shijithajenifer&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/shijithajenifer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shijithajenifer" />
+  </a>
 </p>
-
 ### Contribution Activity
 
 <p align="center">
@@ -84,12 +88,9 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 
 ## LeetCode
 
-
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jeni0512?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
 </p>
-
 
 ---
 
@@ -99,9 +100,11 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
   <a href="https://github.com/shijithajenifer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/shijitha-jenifer-j-0160b6327">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:shijithajenifer2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
