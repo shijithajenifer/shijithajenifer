@@ -70,11 +70,10 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=shijithajenifer&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"
+    src="https://streak-stats.demolab.com?user=shijithajenifer&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"
     alt="Shijitha Jenifer's GitHub Streak"
   />
 </p>
-
 
 ### Contribution Activity
 
