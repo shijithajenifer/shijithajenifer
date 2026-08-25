@@ -78,10 +78,8 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shijithajenifer&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Activity"/>
-</p>
-
----
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shijithajenifer" alt="GitHub Activity Graph">
+</p>---
 
 ## LeetCode
 
