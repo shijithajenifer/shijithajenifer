@@ -79,7 +79,9 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shijithajenifer" alt="GitHub Activity Graph">
-</p>---
+</p>
+
+---
 
 ## LeetCode
 
