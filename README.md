@@ -66,6 +66,15 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 ## GitHub Analytics
 ---
 
+### 📊 My GitHub Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=shijithajenifer&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 
 ### Contribution Activity
