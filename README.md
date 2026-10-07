@@ -54,7 +54,14 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 
 ## GitHub Analytics
 ---
+### 📊 My GitHub Activity
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shijithajenifer&theme=github_dark"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 
 
 
