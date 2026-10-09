@@ -19,7 +19,8 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 
 - 🎓 **Currently studying:** B.Tech Artificial Intelligence & Data Science
 - 🏫 **VSB College of Engineering and Technical Campus, Coimbatore**
-
+- 📊 **CGPA:** 8.4
+  
 ---
 
 ## Tech Stack
