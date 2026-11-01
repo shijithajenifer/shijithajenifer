@@ -96,4 +96,6 @@ Instead of chasing trends, I prefer understanding **how systems work behind the 
 
 
 
+*"Learning today. Building tomorrow."*
+
 </div>
